@@ -4,7 +4,7 @@
   <li>Explain communication concepts and strategies</li>
      <ul>
         <li>A communication stratgy is an important tool in the management of engment with other and to sucess in acieving communication goals and it is a Roadmap how information flow to achieve the intended objective.</li> 
-         <li>Here is a link to a Video that explain everything about <b>Communiction concept and Strategies</b> [<b>Link:</b>] <a href="url">https://www.youtube.com/watch?v=gvwgqjQXrJ0</a></li>
+         <li>Here is a link to a Video that explain everything about <b>Communiction concept and Strategies</b> [<b>Link:</b>] <a href="url">(https://www.youtube.com/watch?v=gvwgqjQXrJ0)</a></li>
     </ul>
 
   <li>Show confidence and skills in oral communications and presentations</li>
