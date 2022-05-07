@@ -23,6 +23,6 @@
   </ul>
   <li>Define and demonstrate conflict management and resolution strategies.</li>
   <ul>
-    <li>Conflict Management and resolution strategies is a way of preventing the negative side of conflict while increasing the positive side of conflict. [<b>Link</b>] >https://www.youtube.com/watch?v=TkmrY0vdd_k  </li>
+    <li>Conflict Management and resolution strategies is a way of preventing the negative side of conflict while increasing the positive side of conflict. [<b>Link</b>] https://www.youtube.com/watch?v=TkmrY0vdd_k  </li>
   </ul>
   </ol>
